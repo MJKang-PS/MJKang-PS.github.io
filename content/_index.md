@@ -39,8 +39,7 @@ sections:
       text: |-
         Get in touch:
       # Contact (add or remove contact options as necessary)
-      email: cwimpy@astate.edu
-      phone: (870) 972-3048
+      email: rkdals54321@snu.ac.kr
       appointment_url: 'https://fantastical.app/cwimpy-yBqk/schedule'
       address:
         street: PO Box 1750
