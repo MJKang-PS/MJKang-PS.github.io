@@ -73,4 +73,4 @@ I am an M.A. student in International Relations and Political Science at Seoul N
 My research focuses on nuclear strategy, alliance politics, and signaling theory, with particular
 interest in how states communicate resolve and deterrence through military and political signals.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-MJ.pdf" "newtab" >}}CV{{< /staticref >}}.
