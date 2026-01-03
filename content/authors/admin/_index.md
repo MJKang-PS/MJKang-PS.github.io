@@ -14,11 +14,11 @@ organizations:
   url: https://psir.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include nuclear security, alliance politics, signaling theory, and international political economy.
+bio: My research interests include nuclear strategy, alliance politics, signaling theory, and international political economy.
 
 # Interests to show in About widget
 interests:
-- Nuclear Security
+- Nuclear Strategy
 - Alliance Politics
 - Signaling Theory
 - International Political Economy
@@ -27,10 +27,8 @@ interests:
 education:
   - course: MA in International Relations
     institution: Seoul National University
-    year: in progress 
   - course: BA in International Relations
     institution: Yonsei University
-    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: s
