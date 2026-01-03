@@ -30,6 +30,8 @@ education:
   - course: BA in International Relations
     institution: Yonsei University
 
+courses: []
+
 # Social/Academic Networking
 # For available icons, see: s
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
