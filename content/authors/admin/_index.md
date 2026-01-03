@@ -1,41 +1,36 @@
 ---
 # Display name
-title: Cameron Wimpy
+title: Minjae Kang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor and Department Chair of Political Science
+role: M.A. Student in International Relations and Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Arkansas State University
-  url: https://www.astate.edu/
+- name: Seoul National University
+  url: https://psir.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political methodology, political economy, political violence, and public policy.
+bio: My research interests include nuclear security, alliance politics, signaling theory, and international political economy.
 
 # Interests to show in About widget
 interests:
-- Data Science
-- Political Economy
-- Political Methodology
-- Public Policy
-- Spatial Econometrics
+- Nuclear Security
+- Alliance Politics
+- Signaling Theory
+- International Political Economy
 
 # Education to show in About widget
 education:
-  courses:
-  - course: PhD in Political Science
-    institution: Texas A&M University
-    year: 2014
-  - course: MA in Political Science
-    institution: Arkansas State University
-    year: 2009
-  - course: BA in Political Science
-    institution: Arkansas State University
-    year: 2007
+  - MA in International Relations
+    institution: Seoul National University
+    year: in progress 
+  - BA in International Relations
+    institution: Yonsei University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: s
