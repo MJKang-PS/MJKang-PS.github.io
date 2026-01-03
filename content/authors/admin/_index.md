@@ -25,10 +25,10 @@ interests:
 
 # Education to show in About widget
 education:
-  - MA in International Relations
+  - course: MA in International Relations
     institution: Seoul National University
     year: in progress 
-  - BA in International Relations
+  - course: BA in International Relations
     institution: Yonsei University
     year: 2021
 
