@@ -37,28 +37,22 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: uploads/cv-wimpy.pdf
+  link: 
 - icon: envelope
   icon_pack: fas
   link: '#contact'  
 - icon: dataverse
   icon_pack: ai
-  link: https://dataverse.harvard.edu/dataverse/cwimpy
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/cwimpy
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=LRQ7rpwAAAAJ
+  link: 
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-2049-5229
-- icon: clarivate
-  icon_pack: ai
-  link: https://www.webofscience.com/wos/author/record/1987627
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/camwimpy
+  link: 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,6 +69,11 @@ highlight_name: true
 ---
 
 
-I am associate professor and department chair of political science at Arkansas State University with interests in comparative public administration, political economy, political methodology, and public policy. Starting in Fall 2022, I am also the founding director of the [Institute for Rural Initiatives](https://www.astate.edu/a/iri/). I am an affiliate faculty with the [Center for No Boundary Thinking](https://www.astate.edu/a/cnbt/) at A-State. I formerly served as the Research Director in the [MIT Election Data and Science Lab](http://electionlab.mit.edu), where I managed applied research on the scientific study of elections. I was previously an affiliate faculty member with the [Harvard Institute for Quantitative Social Science](https://www.iq.harvard.edu/home). I grew up on [Crowley's Ridge](https://en.wikipedia.org/wiki/Crowley%27s_Ridge) in the Arkansas Delta. 
+I am an M.A. student in International Relations and Political Science at Seoul National University.
+My research focuses on nuclear strategy, alliance politics, and signaling theory, with particular
+interest in how states communicate resolve and deterrence through military and political signals.
+
+Methodologically, I am interested in text-as-data approaches and mixed-method research designs,
+including discourse analysis and quantitative modeling of strategic behavior.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-wimpy.pdf" "newtab" >}}CV{{< /staticref >}}.
